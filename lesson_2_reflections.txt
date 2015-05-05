@@ -9,4 +9,4 @@ Staging holds the files that you want to add to the repository when you finally 
 It allows you to select the files in a working directory that will be monitored by your commits.
 It makes it possible to have a working directory that contains WIP files that are related to your project, but not yet ready to include in your repository
 
-
+Ready for the next question.
