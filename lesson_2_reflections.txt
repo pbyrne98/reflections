@@ -14,3 +14,8 @@ Ready for the next question.
 How can you use the staging area to make sure you have one commit per logical change?
 
 By only adding one file change at a time to the staging area and then committing only that change.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Could backup each major change to allow reverting to a label instead of trolling through the log commits.
