@@ -10,3 +10,7 @@ It allows you to select the files in a working directory that will be monitored 
 It makes it possible to have a working directory that contains WIP files that are related to your project, but not yet ready to include in your repository
 
 Ready for the next question.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+By only adding one file change at a time to the staging area and then committing only that change.
