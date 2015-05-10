@@ -24,3 +24,14 @@ Could backup each major change to allow reverting to a label instead of trolling
 How do the diagrams help you visualize the branch structure?
 
 shows the parent-child relationship along with showing the relationship between Branches and commits.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Git uses the commit immediately prior to the branch to compare what code is included and excluded.
+It shows the reachability of commits.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+speed, less manual errors introduced
