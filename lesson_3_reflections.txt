@@ -18,3 +18,10 @@ Branch, label to copy the current state of commit's in a repository to another n
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Allows multiple people and multiple devices to update to the GitHub repository
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Use initals, date and timestamp as a key, with a ongoing text file with changes made in each directory
+Git, as it automates a lot of this - especially the logging of commits. 
+The main function of Git is built on commits. Any alternative would require something as good.
