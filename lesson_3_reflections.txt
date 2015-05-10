@@ -25,3 +25,11 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Use initals, date and timestamp as a key, with a ongoing text file with changes made in each directory
 Git, as it automates a lot of this - especially the logging of commits. 
 The main function of Git is built on commits. Any alternative would require something as good.
+
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+While working on a 'new' feature, this allows the master to say stable for others to start collaboration on.
+
+
